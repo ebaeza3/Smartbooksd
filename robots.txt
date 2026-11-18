@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ebaeza3.github.io/Smartbooksd/sitemap.xml
